@@ -1,4 +1,4 @@
-ai社区：https://linux.do
+AI社区：https://linux.do
 
  # Cybersecurity Skills Router / 逆向技能路由包
 
