@@ -95,16 +95,6 @@
 git clone https://github.com/zhaoxuya520/reverse-skill.git
 ```
 
-然后按平台刷新工具索引：
-
-| 平台 | 命令 |
-|------|------|
-| Windows | `powershell -File skills/scripts/refresh-tool-index.ps1` |
-| Linux / macOS | `bash skills/scripts/refresh-tool-index.sh` |
-| Kali Linux | `bash kali/scripts/refresh-tool-index.sh` |
-
-完成后查看 [skills/tool-index.md](skills/tool-index.md) 确认本机工具状态。
-
 ### 初次使用
 
 > **初次下载只需让Ai阅读[README_AI.md](README_AI.md)即可，无需其他操作。**
